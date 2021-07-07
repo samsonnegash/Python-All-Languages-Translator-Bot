@@ -9,9 +9,9 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
 
 
 ####################################################################################################3
-TOKEN = os.environ.get("1880927586:AAE-8YVdC4s9lyYjl1QKos9wir0xGs3pvfk", )
-APP_ID = int(os.environ.get("APP_ID", 6714914))
-API_HASH = os.environ.get("API_HASH", "085be5963f38db1cb5dac0b01acdce55")
+TOKEN = os.environ.get("","Token Here" )
+APP_ID = int(os.environ.get("APP_ID", 12345))
+API_HASH = os.environ.get("API_HASH", "API HASH HERE")
 ####################################################################################################3
 
 
